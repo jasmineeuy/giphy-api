@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: #80ced6;
+}
+
+
+.maincontent  {
+  
+ 
+}
+
+.maincontent .pSearch{
+  text-align:center;
+  font-size: 30px;
+ /* background-color: gray;*/
+}
+
+.maincontent .myforms{
+  display:flex;
+  justify-content: center;
+  flex-grow: 1;
+  /*background-color: gray;*/
+  
+  
+  
+
+
+}
+
+
+input{
+  width: 100%;
+  padding : 5px 10px;
+  box-sizing: border-box;
+  border: 2px solid grey;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  
+}
+.mainTren {
+
+}
+Header{
+  display: block;
+  background-color:black;
+  clear: both;
+  padding: 5px;
+  text-align: center;
+}
+footer{
+  display: block;
+  background-color:black;
+  clear: both;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  letter-spacing: .15em;
+}
+ .main h1{
+  color: white; 
+  font-size: 55px;
+  font-weight:bold; 
+  font-family: monospace;
+  letter-spacing: .15em;
+  font-family: monospace;
+  
+  
+}
+.trendWords{
+
+  text-align: center;
+  font-size: 30px;
+  
+
+}
+
+.trendPics{
+  width:100%;
+  column-count: auto;
+  row-gap: 10px;
+  text-align: center;
+  box-sizing: border-box;
+  padding:20px;
+  background-color: aliceblue;
+  border:5px solid grey;
+ 
+  
+}
+
+.searchPics{
+  width:100%;
+  column-count: auto;
+  row-gap: 10px;
+  text-align: center;
+  background-color: white;
+ 
+  
+}
